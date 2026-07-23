@@ -1,5 +1,5 @@
 <template>
-  <div uclass="coursepage">
+  <div class="coursepage">
     <!-- ── Course-scoped sidebar ─────────────────────────────
          Global chrome (brand, main nav, footer) belongs to the shell.
          This sidebar only makes sense inside a course, so the remote
