@@ -1,3 +1,4 @@
+import './styles/course.css';
 import { createApp } from 'vue';
 import App from './App.vue';
 
