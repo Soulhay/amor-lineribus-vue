@@ -428,7 +428,7 @@
 
 /* ── Mobile ───────────────────────────────────────────────── */
 @media (max-width: 900px) {
-  .course {
+  .coursepage {
     grid-template-columns: 1fr;
     padding: var(--space-6) var(--space-4);
   }
