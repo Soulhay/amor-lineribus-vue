@@ -175,7 +175,6 @@
         </ul>
       </section>
 
-      <p class="origin">Vue remote &middot; mounted at runtime by the React shell</p>
     </main>
   </div>
 </template>
